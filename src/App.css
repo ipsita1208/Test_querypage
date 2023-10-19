@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  /*background-image: url('https://www.shutterstock.com/image-photo/offshore-windmill-farm-ocean-westermeerwind-park-759730900');*/
+  background-size: cover;
+  padding: 20px;
+}
+
+select {
+  margin: 10px;
+  padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
